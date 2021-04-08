@@ -4,5 +4,6 @@
         "xutility": "cpp",
         "iostream": "cpp",
         "xiosbase": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
