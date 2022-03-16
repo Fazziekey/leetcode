@@ -5,7 +5,12 @@
         "iostream": "cpp",
         "xiosbase": "cpp",
         "vector": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "deque": "cpp",
+        "map": "cpp",
+        "optional": "cpp",
+        "stack": "cpp",
+        "unordered_map": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
