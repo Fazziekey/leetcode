@@ -27,8 +27,6 @@ public:
             sets.insert(root->val);
             dfs(root->right, k);
             dfs(root->left, k);
-        }
-    
-            
+        }   
     }
 };

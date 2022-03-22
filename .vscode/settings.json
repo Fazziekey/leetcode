@@ -10,7 +10,9 @@
         "map": "cpp",
         "optional": "cpp",
         "stack": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "functional": "cpp",
+        "string": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
