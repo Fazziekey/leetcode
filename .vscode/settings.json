@@ -7,9 +7,18 @@
         "vector": "cpp",
         "algorithm": "cpp",
         "deque": "cpp",
+<<<<<<< HEAD
         "initializer_list": "cpp",
         "xtree": "cpp",
         "ostream": "cpp"
+=======
+        "map": "cpp",
+        "optional": "cpp",
+        "stack": "cpp",
+        "unordered_map": "cpp",
+        "functional": "cpp",
+        "string": "cpp"
+>>>>>>> e8635dd72864513a4becb8d4e6ce284575e7fe17
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
