@@ -5,7 +5,11 @@
         "iostream": "cpp",
         "xiosbase": "cpp",
         "vector": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "xtree": "cpp",
+        "ostream": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
