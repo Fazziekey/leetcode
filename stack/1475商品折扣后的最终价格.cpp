@@ -12,7 +12,6 @@
 // 商品 2 的价格为 price[2]=6 ，你将得到 prices[3]=2 的折扣，所以最终价格为 6 - 2 = 4 。
 // 商品 3 和 4 都没有折扣。
 
-
 // 来源：力扣（LeetCode）
 // 链接：https://leetcode.cn/problems/final-prices-with-a-special-discount-in-a-shop
 // 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
